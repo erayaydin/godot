@@ -1,0 +1,4 @@
+[submodule "Examples/StylizedPlanetGenerator"]
+	path = Examples/StylizedPlanetGenerator
+	url = git@github.com:Bauxitedev/stylized-planet-generator.git
+	branch = master
